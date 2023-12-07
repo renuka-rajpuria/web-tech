@@ -29,3 +29,6 @@
 - Markup Language - is a text-encoding system consisting of set of symbols (tags) inserted in a text document to control its structure and formatting.
 - HTML Elements == HTML Tags
 - If we write in head tag it will display but it is not recommended
+- HTML Attributes: 
+    - language attribute in 2 letters for browser in head tag
+    - bgcolor and text in body for colors
