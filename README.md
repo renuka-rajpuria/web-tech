@@ -32,3 +32,4 @@
 - HTML Attributes: 
     - language attribute in 2 letters for browser in head tag
     - bgcolor and text in body for colors
+- text formatting and lists and images
