@@ -33,3 +33,7 @@
     - language attribute in 2 letters for browser in head tag
     - bgcolor and text in body for colors
 - text formatting and lists and images
+- media - audio: autoplay doesnt supported by browsers after 2015 since if we have autoplay and no control then it continues playing
+- iframe stands for internal frame, for links outside of local files, audio and video tags dont work
+- iframe is used mainly for youtube videos and maps mainly, in youtube copy paste the link and "/embed" is important
+- with embed tag just copy the youtube url no need of the embed one
